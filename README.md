@@ -3,7 +3,7 @@
 ### 🚀 What I Bring to the Table:
 
 * #### 🏗️ Architectural Visionary: I have a knack for designing transformative architectures that form the backbone of high-performance systems.
-* #### 🛠️ Backend Dynamo: As a backend-heavy full stack engineer, I specialize in crafting the foundational layers that power seamless user experiences.
+* #### 🛠️ Backend Dynamo: As a backend-heavy full stack engineer ( or backend engineer ), I specialize in crafting the foundational layers that power seamless user experiences.
 * #### 💼 10+ Years of Excellence: With a track record spanning a decade, I've consistently delivered results that make a lasting impact.
 * #### 🌐 Language Polyglot: My toolkit includes Golang, Ruby, Java, Python, C#, Rust, TypeScript and JavaScript (Node.js), allowing me to choose the perfect language for each project.
 
